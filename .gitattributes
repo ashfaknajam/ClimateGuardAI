@@ -1,0 +1,2 @@
+ClimateGuardAI/datasets/processed/D6_kmeans_ready.csv filter=lfs diff=lfs merge=lfs -text
+ClimateGuardAI/datasets/processed/D6_scaled.csv filter=lfs diff=lfs merge=lfs -text
